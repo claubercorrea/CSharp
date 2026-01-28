@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3up2WX2cds=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\PROJETOS MVC\\Empregados\\Empregados\\Empregados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

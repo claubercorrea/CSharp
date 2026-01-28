@@ -1,0 +1,10 @@
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\bin\Debug\cadastro de empregados.exe.config
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\bin\Debug\cadastro de empregados.exe
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\bin\Debug\cadastro de empregados.pdb
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\obj\Debug\cadastro de empregados.csproj.AssemblyReference.cache
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\obj\Debug\cadastro_de_empregados.Form1.resources
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\obj\Debug\cadastro_de_empregados.Properties.Resources.resources
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\obj\Debug\cadastro de empregados.csproj.GenerateResource.cache
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\obj\Debug\cadastro de empregados.csproj.CoreCompileInputs.cache
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\obj\Debug\cadastro de empregados.exe
+C:\Users\ADM\OneDrive\Desktop\clauber\linguagem_ programacao\exercicios de algoritmo\algoritmo\c#\saida_dados_print\cadastro de empregados\cadastro de empregados\obj\Debug\cadastro de empregados.pdb

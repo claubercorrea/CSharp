@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54B2C8F0-F0B7-41FC-B9BA-0A288A311730}|ex\\ex.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\ex\\ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B2C8F0-F0B7-41FC-B9BA-0A288A311730}|ex\\ex.csproj|solutionrelative:ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\ex\\ex\\Program.cs",
+              "RelativeDocumentMoniker": "ex\\Program.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\ex\\ex\\Program.cs",
+              "RelativeToolTip": "ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:48:44.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

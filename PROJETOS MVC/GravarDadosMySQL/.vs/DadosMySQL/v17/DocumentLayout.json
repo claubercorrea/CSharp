@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2533705-E281-4CAC-9F94-E16F97EDF7F8}|GravaDados\\GravaDados.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\gravardadosmysql\\gravadados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2533705-E281-4CAC-9F94-E16F97EDF7F8}|GravaDados\\GravaDados.csproj|solutionrelative:gravadados\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001C6B6-CA9B-4983-B369-94F7CA370E5D}|GravarDadosMySQL\\GravarDadosMySQL.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\gravardadosmysql\\gravardadosmysql\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9001C6B6-CA9B-4983-B369-94F7CA370E5D}|GravarDadosMySQL\\GravarDadosMySQL.csproj|solutionrelative:gravardadosmysql\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001C6B6-CA9B-4983-B369-94F7CA370E5D}|GravarDadosMySQL\\GravarDadosMySQL.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\gravardadosmysql\\gravardadosmysql\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9001C6B6-CA9B-4983-B369-94F7CA370E5D}|GravarDadosMySQL\\GravarDadosMySQL.csproj|solutionrelative:gravardadosmysql\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001C6B6-CA9B-4983-B369-94F7CA370E5D}|GravarDadosMySQL\\GravarDadosMySQL.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\gravardadosmysql\\gravardadosmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9001C6B6-CA9B-4983-B369-94F7CA370E5D}|GravarDadosMySQL\\GravarDadosMySQL.csproj|solutionrelative:gravardadosmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001C6B6-CA9B-4983-B369-94F7CA370E5D}|GravarDadosMySQL\\GravarDadosMySQL.csproj|C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\gravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9001C6B6-CA9B-4983-B369-94F7CA370E5D}|GravarDadosMySQL\\GravarDadosMySQL.csproj|solutionrelative:gravardadosmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravaDados\\Form1.cs",
+              "RelativeDocumentMoniker": "GravaDados\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravaDados\\Form1.cs [Design]",
+              "RelativeToolTip": "GravaDados\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T03:22:13.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravarDadosMySQL\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GravarDadosMySQL\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravarDadosMySQL\\Form1.Designer.cs",
+              "RelativeToolTip": "GravarDadosMySQL\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T03:20:47.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravarDadosMySQL\\Form1.resx",
+              "RelativeDocumentMoniker": "GravarDadosMySQL\\Form1.resx",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravarDadosMySQL\\Form1.resx",
+              "RelativeToolTip": "GravarDadosMySQL\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-24T03:20:45.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravarDadosMySQL\\Program.cs",
+              "RelativeDocumentMoniker": "GravarDadosMySQL\\Program.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravarDadosMySQL\\Program.cs",
+              "RelativeToolTip": "GravarDadosMySQL\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T02:39:50.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravarDadosMySQL\\Form1.cs",
+              "RelativeDocumentMoniker": "GravarDadosMySQL\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\GravarDadosMySQL\\GravarDadosMySQL\\Form1.cs [Design]",
+              "RelativeToolTip": "GravarDadosMySQL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T02:06:54.023Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
