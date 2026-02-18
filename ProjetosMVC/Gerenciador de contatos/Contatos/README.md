@@ -8,11 +8,11 @@ Este é um projeto completo de gerenciamento de contatos (CRUD) desenvolvido par
 
 | Página Inicial (Landing Page) | Dashboard de Contatos |
 |---|---|
-| ![Home](./Contatos/img/Captura%20de%20tela%202026-02-18%20001057.png) | ![Lista](./Contatos/img/Captura%20de%20tela%202026-02-18%20001010.png) |
+| ![Home](./img/Captura%20de%20tela%202026-02-18%20001057.png) | ![Lista](./img/Captura%20de%20tela%202026-02-18%20001010.png) |
 
 | Criar Novo Contato | Edição / Exclusão |
 |---|---|
-| ![Novo](./Contatos/img/Captura%20de%20tela%202026-02-18%20001134.png) | ![Ações](./Contatos/img/Captura%20de%20tela%202026-02-18%20001214.png) |
+| ![Novo](./img/Captura%20de%20tela%202026-02-18%20001134.png) | ![Ações](./img/Captura%20de%20tela%202026-02-18%20001214.png) |
 
 
 
