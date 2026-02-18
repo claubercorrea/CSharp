@@ -1,3 +1,154 @@
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+1. [📂 Organização do Repositório](#-organizao-do-repositrio)
+   1. [🌐 [Sistemas Web / MVC](./Contatos/C)](#-sistemas-web--mvccontatosc)
+   1. [⚙️ Outros Projetos (Em breve)](#-outros-projetos-em-breve)
+1. [🛠️ Tecnologias Principais](#-tecnologias-principais)
+1. [🎯 Objetivo](#-objetivo)
+1. [✉️ Contato](#-contato)
+
+</details>
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+- [📇 Gerenciador de Contatos - ASP.NET Core MVC](#-gerenciador-de-contatos---aspnet-core-mvc)
+- [🚀 Meus Projetos de Desenvolvimento .NET](#-meus-projetos-de-desenvolvimento-net)
+  - [📂 Organização do Repositório](#-organização-do-repositório)
+    - [🌐 Sistemas Web / MVC](#-sistemas-web--mvc)
+    - [⚙️ Outros Projetos (Em breve)](#️-outros-projetos-em-breve)
+  - [🛠️ Tecnologias Principais](#️-tecnologias-principais)
+  - [🎯 Objetivo](#-objetivo)
+  - [✉️ Contato](#️-contato)
+
+</details>
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+- [📇 Gerenciador de Contatos - ASP.NET Core MVC](#-gerenciador-de-contatos---aspnet-core-mvc)
+- [🚀 Meus Projetos de Desenvolvimento .NET](#-meus-projetos-de-desenvolvimento-net)
+  - [📂 Organização do Repositório](#-organização-do-repositório)
+    - [🌐 Sistemas Web / MVC](#-sistemas-web--mvc)
+    - [⚙️ Outros Projetos (Em breve)](#️-outros-projetos-em-breve)
+  - [🛠️ Tecnologias Principais](#️-tecnologias-principais)
+  - [🎯 Objetivo](#-objetivo)
+  - [✉️ Contato](#️-contato)
+
+</details>
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+- [📇 Gerenciador de Contatos - ASP.NET Core MVC](#-gerenciador-de-contatos---aspnet-core-mvc)
+- [🚀 Meus Projetos de Desenvolvimento .NET](#-meus-projetos-de-desenvolvimento-net)
+  - [📂 Organização do Repositório](#-organização-do-repositório)
+    - [🌐 Sistemas Web / MVC](#-sistemas-web--mvc)
+    - [⚙️ Outros Projetos (Em breve)](#️-outros-projetos-em-breve)
+  - [🛠️ Tecnologias Principais](#️-tecnologias-principais)
+  - [🎯 Objetivo](#-objetivo)
+  - [✉️ Contato](#️-contato)
+
+</details>
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+- [📇 Gerenciador de Contatos - ASP.NET Core MVC](#-gerenciador-de-contatos---aspnet-core-mvc)
+- [🚀 Meus Projetos de Desenvolvimento .NET](#-meus-projetos-de-desenvolvimento-net)
+  - [📂 Organização do Repositório](#-organização-do-repositório)
+    - [🌐 Sistemas Web / MVC](#-sistemas-web--mvc)
+    - [⚙️ Outros Projetos (Em breve)](#️-outros-projetos-em-breve)
+  - [🛠️ Tecnologias Principais](#️-tecnologias-principais)
+  - [🎯 Objetivo](#-objetivo)
+  - [✉️ Contato](#️-contato)
+
+</details>
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+- [📇 Gerenciador de Contatos - ASP.NET Core MVC](#-gerenciador-de-contatos---aspnet-core-mvc)
+- [🚀 Meus Projetos de Desenvolvimento .NET](#-meus-projetos-de-desenvolvimento-net)
+  - [📂 Organização do Repositório](#-organização-do-repositório)
+    - [🌐 Sistemas Web / MVC](#-sistemas-web--mvc)
+    - [⚙️ Outros Projetos (Em breve)](#️-outros-projetos-em-breve)
+  - [🛠️ Tecnologias Principais](#️-tecnologias-principais)
+  - [🎯 Objetivo](#-objetivo)
+  - [✉️ Contato](#️-contato)
+
+</details>
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+- [📇 Gerenciador de Contatos - ASP.NET Core MVC](#-gerenciador-de-contatos---aspnet-core-mvc)
+- [🚀 Meus Projetos de Desenvolvimento .NET](#-meus-projetos-de-desenvolvimento-net)
+  - [📂 Organização do Repositório](#-organização-do-repositório)
+    - [🌐 Sistemas Web / MVC](#-sistemas-web--mvc)
+    - [⚙️ Outros Projetos (Em breve)](#️-outros-projetos-em-breve)
+  - [🛠️ Tecnologias Principais](#️-tecnologias-principais)
+  - [🎯 Objetivo](#-objetivo)
+  - [✉️ Contato](#️-contato)
+
+</details>
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+- [📇 Gerenciador de Contatos - ASP.NET Core MVC](#-gerenciador-de-contatos---aspnet-core-mvc)
+- [🚀 Meus Projetos de Desenvolvimento .NET](#-meus-projetos-de-desenvolvimento-net)
+  - [📂 Organização do Repositório](#-organização-do-repositório)
+    - [🌐 Sistemas Web / MVC](#-sistemas-web--mvc)
+    - [⚙️ Outros Projetos (Em breve)](#️-outros-projetos-em-breve)
+  - [🛠️ Tecnologias Principais](#️-tecnologias-principais)
+  - [🎯 Objetivo](#-objetivo)
+  - [✉️ Contato](#️-contato)
+
+</details>
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+- [📇 Gerenciador de Contatos - ASP.NET Core MVC](#-gerenciador-de-contatos---aspnet-core-mvc)
+- [🚀 Meus Projetos de Desenvolvimento .NET](#-meus-projetos-de-desenvolvimento-net)
+  - [📂 Organização do Repositório](#-organização-do-repositório)
+    - [🌐 Sistemas Web / MVC](#-sistemas-web--mvc)
+    - [⚙️ Outros Projetos (Em breve)](#️-outros-projetos-em-breve)
+  - [🛠️ Tecnologias Principais](#️-tecnologias-principais)
+  - [🎯 Objetivo](#-objetivo)
+  - [✉️ Contato](#️-contato)
+
+</details>
 # 📇 Gerenciador de Contatos - ASP.NET Core MVC
 
 Este é um projeto completo de gerenciamento de contatos (CRUD) desenvolvido para demonstrar competências em **C#**, **ASP.NET MVC** e persistência de dados com **Entity Framework Core**. O sistema permite cadastrar, listar, editar e remover contatos de forma intuitiva e responsiva.
@@ -45,4 +196,4 @@ Este repositório tem como foco demonstrar minha evolução como **Desenvolvedor
 ## ✉️ Contato
 
 * **LinkedIn:** [Clauber Correa Rodrigues Valladares](https://www.linkedin.com/in/clauberdev/)
-* **E-mail:** [Seu Email Aqui]
+* **E-mail:** [claubinho80@gmail.com]
