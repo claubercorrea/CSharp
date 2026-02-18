@@ -4,50 +4,45 @@ Este é um projeto completo de gerenciamento de contatos (CRUD) desenvolvido par
 
 ---
 
-## 📸 Demonstração do Projeto
+# 🚀 Meus Projetos de Desenvolvimento .NET
 
-| Página Inicial (Landing Page) | Dashboard de Contatos |
-|---|---|
-| ![Home](./Contatos/img/Captura%20de%20tela%202026-02-18%20001057.png) | ![Lista](./Contatos/img/Captura%20de%20tela%202026-02-18%20001010.png) |
-
-| Criar Novo Contato | Edição / Exclusão |
-|---|---|
-| ![Novo](./Contatos/img/Captura%20de%20tela%202026-02-18%20001134.png) | ![Ações](./Contatos/img/Captura%20de%20tela%202026-02-18%20001214.png) |
-
-> **Nota:** Para que as imagens apareçam, salve as capturas de tela na pasta `/img` do seu repositório.
+Bem-vindo ao meu repositório de estudos e projetos! Aqui concentro minhas aplicações focadas em backend, arquitetura de software e boas práticas com a stack Microsoft.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 📂 Organização do Repositório
 
-* **Linguagem:** C# (.NET 8)
-* **Framework Web:** ASP.NET Core MVC
-* **ORM:** Entity Framework Core
-* **Banco de Dados:** SQL Server
-* **Frontend:** HTML5, CSS3, JavaScript e **Bootstrap 5**
+Neste repositório, os projetos estão divididos por categorias para facilitar a navegação:
 
----
+### 🌐 [Sistemas Web / MVC](./Contatos/C)
+* **Gerenciador de Contatos:** Um CRUD completo utilizando ASP.NET Core MVC, Entity Framework e SQL Server. Possui interface responsiva e lógica de persistência de dados.
 
-## 🛠️ Funcionalidades Backend
-
-* **Arquitetura MVC:** Separação clara de responsabilidades entre Modelos, Visões e Controladores.
-* **Persistência de Dados:** Implementação de operações CRUD completas no banco de dados.
-* **Migrations:** Controle de versão do banco de dados para facilitar o deploy e a colaboração.
-* **Validações:** Regras de negócio aplicadas no backend para garantir a integridade dos dados (Nome, Email e Telefone).
-* **Alertas de Confirmação:** Lógica de interface integrada para evitar exclusões acidentais.
+### ⚙️ Outros Projetos (Em breve)
+* APIs RESTful, Integrações com Bancos de Dados e Microserviços.
 
 ---
 
-## ⚙️ Como executar o projeto localmente
+## 🛠️ Tecnologias Principais
 
-Como este é um projeto focado em backend com SQL Server, siga os passos abaixo para configurar o ambiente:
+<div align="left">
+  <img src="./Contatos/img/Captura de tela 2026-02-18 001010.png" />
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
-### 1. Requisitos
-* Visual Studio 2022 (ou superior)
-* SDK do .NET 8
-* SQL Server LocalDB (Instalado com o Visual Studio)
+---
 
-### 2. Instalação
-1. Clone o repositório:
-   ```bash
-   git clone (https://github.com/claubercorrea/CSharp/tree/main/ProjetosMVC/Gerenciador%20de%20contatos/Contatos)
+## 🎯 Objetivo
+Este repositório tem como foco demonstrar minha evolução como **Desenvolvedor Backend**, aplicando padrões como:
+- [x] Injeção de Dependência.
+- [x] Migrations para versionamento de banco de dados.
+- [x] Padrão MVC (Model-View-Controller).
+- [x] Clean Code e organização de pastas.
+
+---
+
+## ✉️ Contato
+
+* **LinkedIn:** [Clauber Correa Rodrigues Valladares](https://www.linkedin.com/in/clauberdev/)
+* **E-mail:** [Seu Email Aqui]
