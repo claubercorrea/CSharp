@@ -3,7 +3,7 @@
 
 <details>
 
-   <summary>Contents</summary>
+   <!-- <summary>Contents</summary>
 
 1. [📂 Organização do Repositório](#-organizao-do-repositrio)
    1. [🌐 [Sistemas Web / MVC](./Contatos/C)](#-sistemas-web--mvccontatosc)
@@ -135,7 +135,7 @@
 
 ## Table of Contents
 
-<details>
+<details> -->
 
    <summary>Contents</summary>
 
