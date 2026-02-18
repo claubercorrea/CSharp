@@ -1,13 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\condicionais",
     "\\funcao (void)",
-    "\\lista",
     "\\saida_dados_print",
     "\\saida_dados_print\\exercicio 2",
-    "\\saida_dados_print\\exercicios"
+    "\\saida_dados_print\\exercicios",
+    "\\saida_dados_print\\exercicios\\exercicios"
   ],
-  "SelectedNode": "\\lista",
+  "SelectedNode": "\\saida_dados_print\\exercicios\\exercicios\\Exercicio2.cs",
   "PreviewInSolutionExplorer": false
 }

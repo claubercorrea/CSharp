@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\views\\contatos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\views\\contatos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\views\\contatos\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\views\\contatos\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\contatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\contatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\data\\contatocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\data\\contatocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|c:\\users\\adm\\onedrive\\desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\projetosmvc\\gerenciador de contatos\\contatos\\contatos\\migrations\\20260216235955_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6610357C-E352-4946-B919-B0EF00877D6F}|Contatos\\Contatos.csproj|solutionrelative:contatos\\migrations\\20260216235955_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Contatos\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Contatos\\Views\\Contatos\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Contatos\\Editar.cshtml",
+              "RelativeToolTip": "Contatos\\Views\\Contatos\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T20:20:11.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Contatos\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Contatos\\Views\\Contatos\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Contatos\\Criar.cshtml",
+              "RelativeToolTip": "Contatos\\Views\\Contatos\\Criar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T00:08:27.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contatos.csproj",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Contatos.csproj",
+              "RelativeDocumentMoniker": "Contatos\\Contatos.csproj",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Contatos.csproj",
+              "RelativeToolTip": "Contatos\\Contatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T03:03:32.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Contatos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Contatos\\Views\\Contatos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Contatos\\Index.cshtml",
+              "RelativeToolTip": "Contatos\\Views\\Contatos\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T00:03:50.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260216235955_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Migrations\\20260216235955_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Contatos\\Migrations\\20260216235955_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Migrations\\20260216235955_InitialCreate.cs",
+              "RelativeToolTip": "Contatos\\Migrations\\20260216235955_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T23:59:55.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Contatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Contatos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T22:55:12.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\appsettings.json",
+              "RelativeDocumentMoniker": "Contatos\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\appsettings.json",
+              "RelativeToolTip": "Contatos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T22:23:00.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Program.cs",
+              "RelativeDocumentMoniker": "Contatos\\Program.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Program.cs",
+              "RelativeToolTip": "Contatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T22:14:39.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContatoContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Data\\ContatoContext.cs",
+              "RelativeDocumentMoniker": "Contatos\\Data\\ContatoContext.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Data\\ContatoContext.cs",
+              "RelativeToolTip": "Contatos\\Data\\ContatoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:27:47.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "Contatos\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Models\\Contato.cs",
+              "RelativeToolTip": "Contatos\\Models\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:27:06.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Contatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Contatos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T21:26:03.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Contatos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Contatos\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T21:19:21.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Contatos\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Contatos\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T21:16:06.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContatosController.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Controllers\\ContatosController.cs",
+              "RelativeDocumentMoniker": "Contatos\\Controllers\\ContatosController.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Controllers\\ContatosController.cs",
+              "RelativeToolTip": "Contatos\\Controllers\\ContatosController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T22:54:21.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Contatos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\ProjetosMVC\\Gerenciador de contatos\\Contatos\\Contatos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Contatos\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:25:40.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

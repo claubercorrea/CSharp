@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:saida_dados_print\\exercicios\\exercicios\\Exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:saida_dados_print\\exercicios\\exercicios\\Exercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:saida_dados_print\\exercicios\\exercicios\\Exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:saida_dados_print\\exercicios\\exercicios\\Exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio6.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio6.cs",
+              "RelativeDocumentMoniker": "saida_dados_print\\exercicios\\exercicios\\Exercicio6.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio6.cs",
+              "RelativeToolTip": "saida_dados_print\\exercicios\\exercicios\\Exercicio6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T00:55:32.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio2.cs",
+              "RelativeDocumentMoniker": "saida_dados_print\\exercicios\\exercicios\\Exercicio2.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio2.cs",
+              "RelativeToolTip": "saida_dados_print\\exercicios\\exercicios\\Exercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T00:55:09.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio4.cs",
+              "RelativeDocumentMoniker": "saida_dados_print\\exercicios\\exercicios\\Exercicio4.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio4.cs",
+              "RelativeToolTip": "saida_dados_print\\exercicios\\exercicios\\Exercicio4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T00:14:12.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio7.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio7.cs",
+              "RelativeDocumentMoniker": "saida_dados_print\\exercicios\\exercicios\\Exercicio7.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\Desktop\\clauber\\linguagem_ programacao\\exercicios de algoritmo\\algoritmo\\c#\\saida_dados_print\\exercicios\\exercicios\\Exercicio7.cs",
+              "RelativeToolTip": "saida_dados_print\\exercicios\\exercicios\\Exercicio7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T00:13:39.836Z",
+              "EditorCaption": ""
             }
           ]
         }
